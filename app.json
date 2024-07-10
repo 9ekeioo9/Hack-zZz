@@ -1,15 +1,15 @@
 {
-    "name": "RomeosessionHBot",
+    "name": "Hack zZz",
     "description": "group destroer",
-    "logo": "https://telegra.ph//file/87fa102aa588b71f43b08.jpg",
+    "logo": "https://telegra.ph/file/94b680ab579fa0d976c11.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "banall"
     ],
-    "website": "https://t.me/RomeoBot_op",
+    "website": "https://t.me/oooj30",
     "repository": "https://github.com/RJ-5/RomeosessionHbot",
-    "success_url": "https://t.me/RomeoBot_op",
+    "success_url": "https://t.me/oooj30",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
