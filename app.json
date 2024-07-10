@@ -24,8 +24,8 @@
             "required": true
         },
         "START_PIC": {
-            "description": "upload any pic on telegram and link paste hare.",
-            "required": true
+            "description": "upload any pic on telegram and link paste here.",
+            "required": true,
             "value": "https://telegra.ph/file/94b680ab579fa0d976c11.jpg"
         }
     },
@@ -48,4 +48,4 @@
         }
     },
     "stack": "container"
-    }
+}
